@@ -1,11 +1,11 @@
 {
-    "name": "ocapp",
-    "short_name": "ocapp",
+    "name": "FreshKaka",
+    "short_name": "FreshKaka",
     "start_url": ".",
-    "display": "minimal-ui",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "display": "standalone",
+    "background_color": "#ff5a00",
+    "theme_color": "#ff5a00",
+    "description": "Freshness Delivered",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
