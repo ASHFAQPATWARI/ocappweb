@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ff5a00",
-    "theme_color": "#ff5a00",
+    "theme_color": "white",
     "description": "Freshness Delivered",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
